@@ -6,4 +6,7 @@
 
 We’ll use it to create a passing network and analyse how the players of a team are connected.
 
-<img width="485" height="355" alt="Captura de pantalla 2025-11-07 a las 16 46 49" src="https://github.com/user-attachments/assets/53dc1fd5-d989-4b89-bb59-89cf3e708c40" />
+
+<p align="center">
+  <img width="600" height="400" alt="Captura de pantalla 2025-11-07 a las 16 46 49" src="https://github.com/user-attachments/assets/53dc1fd5-d989-4b89-bb59-89cf3e708c40" />
+</p>
